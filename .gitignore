@@ -1,0 +1,14 @@
+# 環境変数
+.env
+
+# Google API credentials
+credentials.json
+
+# Cookie (絶対に公開してはいけない)
+cookies.json
+cookies_techplay.json
+
+# OS / エディタ
+.DS_Store
+*.pyc
+__pycache__/
